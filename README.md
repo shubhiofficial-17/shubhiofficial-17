@@ -1,6 +1,6 @@
 # Hi, I'm Shubhi 👋
 
-Senior Software Engineer at **EYKON** (formerly Landis+Gyr Metering Solutions), building GenAI and CI/CD tooling for teams working on smart-meter firmware. 4+ years of experience, mostly in Python, now also building in .NET and Angular.
+Senior Software Engineer at **EYKON** (formerly Landis+Gyr Metering Solutions). 4+ years building enterprise smart-metering products in **C#, .NET Core, Angular and MongoDB**, plus production GenAI workflows in **Python and LangChain** for firmware testing.
 
 ## What I work on
 
@@ -8,6 +8,7 @@ Senior Software Engineer at **EYKON** (formerly Landis+Gyr Metering Solutions), 
   - Test-failure log analysis
   - Test-impact prediction for GitLab merge requests
   - Test-script generation
+- **Full-stack .NET.** .NET Core microservices, MongoDB and Angular dashboards for smart-grid telemetry (100k+ records, sub-second queries).
 - **CI/CD.** I write YAML pipelines on Azure DevOps and GitLab CI that build Docker images of Python services and deploy them to UAT and production.
 - **Mentoring.** I mentor two junior engineers who now maintain these GenAI workflows, and I review their merge requests.
 
