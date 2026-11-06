@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Shubhi 👋
 
-<!--
-**shubhiofficial-17/shubhiofficial-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer at **EYKON** (formerly Landis+Gyr Metering Solutions), building GenAI and CI/CD tooling for teams working on smart-meter firmware. 4+ years of experience, mostly in Python.
 
-Here are some ideas to get you started:
+## What I work on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **GenAI workflows for engineering teams.** I designed LLM-based workflows that my team uses day to day:
+  - Test-failure log analysis
+  - Test-impact prediction for GitLab merge requests
+  - Test-script generation
+- **CI/CD.** I write YAML pipelines on Azure DevOps and GitLab CI that build Docker images of Python services and deploy them to UAT and production.
+- **Mentoring.** I mentor two junior engineers who now maintain these GenAI workflows, and I review their merge requests.
+
+## Tech
+
+`Python` · `LLMs / GenAI` · `Docker` · `Azure` · `Azure DevOps` · `GitLab CI` · `Git`
+
+## Career
+
+| Role | Since |
+|---|---|
+| Senior Software Engineer, EYKON | Apr 2026 |
+| Software Engineer | Aug 2023 |
+| Graduate Engineer Trainee | Aug 2022 |
+
+## Now
+
+Building portfolio projects in public. They'll show up here soon.
